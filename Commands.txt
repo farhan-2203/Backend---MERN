@@ -17,3 +17,5 @@ Type: - npm start
 Type: - require("") & Add attribute in Package.json ("type":"commonjs")
 // For Modules in React we Use
 Type: - import & export & Add attribute in Package.json ("type":"module")
+// For use JSON type AppData
+Type: - app.use(express.json());

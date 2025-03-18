@@ -1,7 +1,7 @@
 {
   "name": "backend---mern",
   "version": "1.0.0",
-  "type":"commonjs",
+  "type": "commonjs",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/farhan-2203/Backend---MERN/issues"
   },
-  "homepage": "https://github.com/farhan-2203/Backend---MERN#readme"
+  "homepage": "https://github.com/farhan-2203/Backend---MERN#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
