@@ -1,0 +1,19 @@
+// For Initialize Package.json
+Type: - npm init -y
+// For Run JS code on system 
+Type: - Node index.js
+// For clear screen
+Type: - cls
+// For Install nodemon Package
+Type: - npm i -g nodemon
+nodemon Directory Location: - C:\Users\farha\AppData\Roaming\npm
+// For give permission to nodemon for run file (Run in Power shell)
+Type: - Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+// For run file using nodemon
+Type: - nodemon index.js
+or by adding in Package.json ("start": "nodemon index.js")
+Type: - npm start
+// For Modules in Node.js we Use
+Type: - require("") & Add attribute in Package.json ("type":"commonjs")
+// For Modules in React we Use
+Type: - import & export & Add attribute in Package.json ("type":"module")

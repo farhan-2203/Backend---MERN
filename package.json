@@ -1,0 +1,22 @@
+{
+  "name": "backend---mern",
+  "version": "1.0.0",
+  "type":"commonjs",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farhan-2203/Backend---MERN.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farhan-2203/Backend---MERN/issues"
+  },
+  "homepage": "https://github.com/farhan-2203/Backend---MERN#readme"
+}
